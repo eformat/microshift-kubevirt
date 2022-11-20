@@ -1,3 +1,4 @@
 resources:
 - kubevirt-cr.yaml
 - kubevirt-operator.yaml
+- rolebinding.yaml
