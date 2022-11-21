@@ -1,5 +1,13 @@
 # microshift-kubevirt
 
+From ACM or
+
+```bash
+oc apply -k overlays/fedora-cloud
+```
+
+## manually
+
 ```bash
 LATEST=$(curl -L https://storage.googleapis.com/kubevirt-prow/devel/nightly/release/kubevirt/kubevirt/latest-arm64)
 echo $LATEST
