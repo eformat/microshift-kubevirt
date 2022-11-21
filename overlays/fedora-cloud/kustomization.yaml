@@ -1,0 +1,5 @@
+bases:
+- ../../base
+
+resources:
+- vm-fedora.yaml
